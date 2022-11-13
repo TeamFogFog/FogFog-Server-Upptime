@@ -1,22 +1,20 @@
 [
   {
-    "name": "Test 용 FogFog Server - DEV",
-    "url": "https://klsjflskjdfljdslkfjsdlkjfl.com",
-    "icon": "https://icons.duckduckgo.com/ip3/klsjflskjdfljdslkfjsdlkjfl.com.ico",
-    "slug": "test-fog-fog-server-dev",
-    "status": "down",
-    "uptime": "11.19%",
-    "uptimeDay": "11.19%",
-    "uptimeWeek": "11.19%",
-    "uptimeMonth": "11.19%",
-    "uptimeYear": "11.19%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-11-13": 0
-    }
+    "name": "FogFog Server - DEV",
+    "url": "$SECRET_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "fog-fog-server-dev",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 389,
+    "timeDay": 389,
+    "timeWeek": 389,
+    "timeMonth": 389,
+    "timeYear": 389,
+    "dailyMinutesDown": {}
   }
 ]
