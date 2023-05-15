@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fog-fog-server-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 381,
-    "timeWeek": 376,
-    "timeMonth": 413,
-    "timeYear": 383,
+    "time": 384,
+    "timeDay": 428,
+    "timeWeek": 395,
+    "timeMonth": 416,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2023-05-15": 0
+      "2023-05-15": 10
     }
   }
 ]
