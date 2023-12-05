@@ -2,7 +2,7 @@
 owner: TeamFogFog # Your GitHub organization or username, where this repository lives
 repo: FogFog-Server-Upptime # The name of this repository
 
-sites:
+# sites:
   # - name: FogFog Server - DEV
   #   url: $SECRET_SITE
   #   method: GET
