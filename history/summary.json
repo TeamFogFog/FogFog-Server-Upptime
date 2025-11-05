@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fog-fog-server-dev",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.93%",
-    "time": 1561,
-    "timeDay": 1134,
-    "timeWeek": 1490,
-    "timeMonth": 1501,
-    "timeYear": 1597,
+    "time": 1562,
+    "timeDay": 1780,
+    "timeWeek": 1538,
+    "timeMonth": 1504,
+    "timeYear": 1598,
     "dailyMinutesDown": {
       "2025-11-02": 17,
       "2025-10-27": 95,
@@ -25,8 +25,7 @@
       "2025-09-28": 37,
       "2025-09-19": 18,
       "2025-03-13": 56,
-      "2024-11-08": 23,
-      "2024-11-05": 18
+      "2024-11-08": 23
     }
   }
 ]
